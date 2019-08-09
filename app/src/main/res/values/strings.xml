@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HairDesign</string>
+    <string name="test_hair">测试发型</string>
+    <string name="look_hair">发型大全</string>
+    <string name="take_photo">拍照</string>
+    <string name="pick_photo">从相册选择</string>
+    <string name="select_cancel">取消</string>
+
+    <string name="label_cancel">取消</string>
+    <string name="label_ok">确定</string>
+    <string name="permission_title_rationale">权限需求</string>
+    <string name="permission_read_storage_rationale">选择图片时需要读取权限</string>
+    <string name="permission_write_storage_rationale">拍照时需要存储权限</string>
+</resources>
